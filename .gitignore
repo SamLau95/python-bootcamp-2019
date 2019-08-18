@@ -173,3 +173,7 @@ dmypy.json
 .history
 
 # End of https://www.gitignore.io/api/visualstudiocode
+
+# okpy
+.ok_storage.db
+.vscode
