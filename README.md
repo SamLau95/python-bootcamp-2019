@@ -13,6 +13,11 @@ At the end of each day, students will fill out this Google Form to report their
 daily learning progress: http://bit.ly/py-report . This will help me keep track
 of learning goals and better serve the class.
 
+To access each lab, click the link under the Topic column in the table below.
+All labs will be completed on Berkeley's hosted Jupyter environment. If you
+would like to work on the labs locally, you can install the Anaconda
+distribution at https://docs.anaconda.com/anaconda/install/ .
+
 | Lab | Topic                                 | Data                         | Readings                                                   | Modified From      |
 | --- | ------------------------------------- | ---------------------------- | ---------------------------------------------------------- | ------------------ |
 | 01  | [Intro to Jupyter and Python ][lab01] |                              | [Data 8 Ch 3][data8ch3]                                    | Data 8 Lab 01      |
