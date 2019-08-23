@@ -29,6 +29,18 @@ distribution at https://docs.anaconda.com/anaconda/install/ .
 | 07  | [EDA and Text (Part 1) ][lab07]       | Trump Tweets                 | [Data 100 Ch 8][data100ch8]                                | Data 100 HW3       |
 | 08  | [EDA and Text (Part 2) ][lab08]       | Trump Tweets                 | [Data 100 Ch 8][data100ch8]                                | Data 100 HW3       |
 
+PS: Here's a list of Sam's favorite restaurants in the Berkeley area:
+
+| Name          | Meal           | What to Get?              | Price Range |
+| ------------- | -------------- | ------------------------- | ----------- |
+| Stuffed Inn   | Lunch Only     | Sandwich + Soup           | < \$10      |
+| Imm Thai      | Lunch + Dinner | Duck Noodle Soup          | \$10-15     |
+| Cheeseboard   | Lunch + Dinner | Pizza of the Day          | \$10        |
+| Royal Rangoon | Dinner         | Tea Leaf Salad            | \$15-20     |
+| Caravaggio    | Dessert        | Gelato                    | \$4-5       |
+| Asha Tea      | Tea            | Matcha Latte              | \$4-5       |
+| La Farine     | Tea            | Walnut Levain, Fruit Tart | \$5         |
+
 [data8ch3]: https://www.inferentialthinking.com/chapters/03/programming-in-python.html
 [data8ch4]: https://www.inferentialthinking.com/chapters/04/Data_Types.html
 [data100ch3]: https://www.textbook.ds100.org/ch/03/pandas_intro.html
