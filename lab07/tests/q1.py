@@ -32,7 +32,7 @@ test = {   'name': 'q1',
                                        'locked': False},
                                    {   'code': ">>> trump['time'].dtype == "
                                                "np.dtype('<M8[ns]')\n"
-                                               'False',
+                                               'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': ">>> trump['text'].dtype == "
